@@ -47,6 +47,6 @@
   </a>
 </div>
 <p>Official Website of Vrediclion | YouTube Creator</p>
-<a href="https://vrediclion.github.io/-/">
+<a href="https://vrediclion.github.io/-/"></a>
     </body>
 </html>
